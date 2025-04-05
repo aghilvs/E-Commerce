@@ -468,6 +468,17 @@ footer .copyright {
     text-align: center;
 }
 
+/*Blog Page*/
+#page-header .blog-header {
+    background-image: url("image/banner/b19.jpg");
+}
+
+/*About Page*/
+
+/*Contact Page*/
+
+/*Start Media Query*/
+
 @media screen and (max-width: 799px) {
     .section-p1 {
         padding: 40px 40px;
